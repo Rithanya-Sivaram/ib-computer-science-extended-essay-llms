@@ -6,7 +6,7 @@ To what extent do prompting techniques affect the accuracy and runtime of Large 
 
 ## About this Repository: 
 
-This repository contains the source code, results, and final paper for my IB Computer Science Extended Essay.
+This repository contains the source code, results, and final paper for my IB Computer Science Extended Essay, submitted for the November 2025 session.
 
 The investigation examines how prompting techniques affect the mathematical problem-solving capabilities of LLMs. 5 Multi-Word
 Problem (MWP) alg514 evaluation datasets were selected from the MathEval benchmark. 
